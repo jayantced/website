@@ -11,5 +11,5 @@
 userName = "";
 
 while( userName == "" ) {
-    console.log("dddd");
+    window.prompt("Enter Name");
 }
